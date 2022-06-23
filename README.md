@@ -10,7 +10,8 @@ The following repository contains solutions to the leetcode problems from the fo
 ## Problems Solved
 
 
-Problem  | Topics | Difficulty | Link
--------- | ------ | ----- | -----
-Two Sum  | Arrays | Easy  | https://leetcode.com/problems/two-sum/
- 
+Problem  | Topics | Difficulty | Date | Link
+-------- | ------ | ----- | ----- | -----
+Two Sum  | Arrays | Easy  | 21st June 2022 | https://leetcode.com/problems/two-sum/
+Valid parentheses | Strings	| Easy | 22nd June 2022 | https://leetcode.com/problems/valid-parentheses/
+Buy and sell stocks | Arrays | Easy | 23rd June 2022 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
