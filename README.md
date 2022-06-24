@@ -17,3 +17,4 @@ Buy and sell stocks | Arrays | Easy | 23rd June 2022 | https://leetcode.com/prob
 Container with most water | Arrays | Medium | 23rd June 2022 | https://leetcode.com/problems/container-with-most-water/
 Longest Palindrome | Strings | Easy | 23rd June 2022 | https://leetcode.com/problems/longest-palindrome/
 Spiral Traversal | Arrays | Medium | 23rd June 2022 | https://leetcode.com/problems/spiral-matrix/
+Reverse a linked list | Linked list | Easy | 24th June 2022 | https://leetcode.com/problems/reverse-linked-list/
