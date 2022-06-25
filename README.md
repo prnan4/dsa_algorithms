@@ -20,3 +20,5 @@ Longest Palindrome | Strings | Easy | 23rd June 2022 | https://leetcode.com/prob
 Spiral Traversal | Arrays | Medium | 23rd June 2022 | https://leetcode.com/problems/spiral-matrix/
 Reverse a linked list | Linked list | Easy | 24th June 2022 | https://leetcode.com/problems/reverse-linked-list/
 3 Sum| Arrays | Medium | 24th June 2022 | https://leetcode.com/problems/3sum/
+Middle of a linked list | Linked list | Easy | 25th June 2022 | https://leetcode.com/problems/middle-of-the-linked-list/
+Binary Search | Binary search | Easy | 25th June 2022 | https://leetcode.com/problems/binary-search/
