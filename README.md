@@ -22,3 +22,4 @@ Reverse a linked list | Linked list | Easy | 24th June 2022 | https://leetcode.c
 3 Sum| Arrays | Medium | 24th June 2022 | https://leetcode.com/problems/3sum/
 Middle of a linked list | Linked list | Easy | 25th June 2022 | https://leetcode.com/problems/middle-of-the-linked-list/
 Binary Search | Binary search | Easy | 25th June 2022 | https://leetcode.com/problems/binary-search/
+Letter Combinations of phone number | Recursion | Medium | 25th June 2022 | https://leetcode.com/problems/letter-combinations-of-a-phone-number/
