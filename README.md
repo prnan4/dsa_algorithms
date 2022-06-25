@@ -5,6 +5,7 @@ The following repository contains solutions to the leetcode problems from the fo
 - Grind 75: [Link](https://www.techinterviewhandbook.org/grind75)
 - Sean Prasad List: [Link](https://leetcode.com/list/9k7j58mc/)
 
+To strengthen your DSA concepts, you can refer to the following [resource](https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts)
 
 ## Problems Solved
 
