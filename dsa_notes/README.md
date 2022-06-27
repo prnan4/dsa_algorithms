@@ -2,52 +2,58 @@
 
 ## Lists
 
-Iterate through a list.
+### Iterate through a list
 ``` 
 for item in arr:
 ```
 
-Iterate through a list with index.
+### Iterate through a list with index
 ```
 for i, item in enumerate (arr)
 ```
 
-Check if list is empty. Returns True if arr is empty
+### Check if list is empty
+Returns True if arr is empty
 ```
 if not arr:
 ```
 
-Iterate through portion of list. Starts iterating from element at index 1.
+### Iterate through portion of list 
+Starts iterating from element at index 1.
 ```
 for i in arr[1:]
 ```
 
-Remove element from list. Object is modified.
+### Remove element from list
+Object is modified
 ```
 arr.remove(9)
 ```
 
-Remove last element from list. Object is not modified.
+### Remove last element from list
+Object is not modified.
 ```
 arr = arr[:-1]
 ```
 
-Append elements of list a to list b
+### Append elements of list a to list b
 ```
 b.extend(a)
 ```
 
-Reverse list in python. Object is modified. In place operation, does not return anything. Variable gets updates
+### Reverse list 
+Object is modified. In place operation, does not return anything. Variable gets updates
 ```
 b.reverse()
 ```
 
-Object is not modified.
+Object is not modified
 ```
 c = b[::-1]
 ```
 
-Sort list. Object is modified.
+### Sort list
+Object is modified
 ```
 b.sort()
 ```
@@ -100,36 +106,37 @@ matrix.pop(-1)
 
 ## Hashmap
 
-Create hashmap
+### Create hashmap
 ```
 dict = {}
 ```
 
-Append to hashmap
+### Append to hashmap
 ```
 dict[1] = ‘a’
 dict[2] = ‘b’
 ```
 
-Get hashmap keys. Stores hashmap keys in a list
+### Get hashmap keys
+Stores hashmap keys in a list
 ```
 all_keys = dict.keys()
 ```
 
-Look up
+### Look up
 ```
 # Return True
 1 in a
 ```
 
-Delete key value pair
+### Delete key value pair
 ```
 del a[1]
 ```
 
 ## Strings
 
-To check if character exists in string
+### Check if character exists in string
 
 ```
 chars = [0] * 128
@@ -143,14 +150,15 @@ In this case, indstead of searching through the whole list (time complexity O(N)
 
 BFS is done by stack. 
 
-Push
+### Push
 
 ```
 stack = []
 stack.append('a')
 ```
 
-Pop - will remove last element from list. Object is modified.
+### Pop 
+Removes last element from list. Object is modified.
 ```
 stack.pop()
 ```
@@ -160,10 +168,11 @@ stack.pop()
 
 DFS is done by stack
 
-
 ## Linked List
 
 Each node has a value and a pointer to the next node.
+
+### Definition of a node
 ```
 class ListNode(object):
    def __init__(self, val=0, next=None):
@@ -175,7 +184,7 @@ b = ListNode(2, a)
 ```
 
 
-Linked list to array
+### Linked list to array
 ```
 def linked_list_to_arr(head):
    arr = []
@@ -186,7 +195,7 @@ def linked_list_to_arr(head):
 ```
 
 
-Array to linked list 
+### Array to linked list 
 ```
 def arr_to_linked_list(arr):
    curr = None
@@ -196,9 +205,7 @@ def arr_to_linked_list(arr):
    return curr
 ```
 
-
-
-Reverse linked list
+### Reverse linked list
 ```
 def reverseList(head):
    curr = None
@@ -216,7 +223,7 @@ Check if the linked list is palindrome: https://www.youtube.com/watch?v=yOzXms1J
 
 ## Binary search
 
-Recursive approach: 
+### Recursive approach: 
 
 ```
 def binary_search(self, start_index, end_index, nums, target):
