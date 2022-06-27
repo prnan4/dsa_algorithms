@@ -24,3 +24,4 @@ Middle of a linked list | Linked list | Easy | 25th June 2022 | https://leetcode
 Binary Search | Binary search | Easy | 25th June 2022 | https://leetcode.com/problems/binary-search/
 Letter Combinations of phone number | Recursion | Medium | 25th June 2022 | https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 Longest substring without repeating characters | Strings | Medium | 27th June 2022 | https://leetcode.com/problems/longest-substring-without-repeating-characters/
+Longest Substring with At Most Two Distinct Characters| Strings| Medium	| 27th June 2022 | https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/	
