@@ -30,3 +30,4 @@ Invert Binary tree | Binary Tree| Easy | https://leetcode.com/problems/invert-bi
 Maximum Depth of Binary Tree | Binary Tree | Easy | https://leetcode.com/problems/maximum-depth-of-binary-tree/
 Linked List Cycle | Linked list	| Easy | https://leetcode.com/problems/linked-list-cycle/	
 Construct Binary Tree from Preorder and Inorder Traversal | Binary Tree	| Medium| https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+Validate Binary Search Tree	| Binary Search Tree |	Medium | https://leetcode.com/problems/validate-binary-search-tree/
