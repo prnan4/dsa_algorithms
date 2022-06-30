@@ -31,3 +31,4 @@ Maximum Depth of Binary Tree | Binary Tree | Easy | https://leetcode.com/problem
 Linked List Cycle | Linked list	| Easy | https://leetcode.com/problems/linked-list-cycle/	
 Construct Binary Tree from Preorder and Inorder Traversal | Binary Tree	| Medium| https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 Validate Binary Search Tree	| Binary Search Tree |	Medium | https://leetcode.com/problems/validate-binary-search-tree/
+Sort Colors	| Arrays |Medium | https://leetcode.com/problems/sort-colors/
