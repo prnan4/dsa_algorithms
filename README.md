@@ -32,3 +32,5 @@ Linked List Cycle | Linked list	| Easy | https://leetcode.com/problems/linked-li
 Construct Binary Tree from Preorder and Inorder Traversal | Binary Tree	| Medium| https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 Validate Binary Search Tree	| Binary Search Tree |	Medium | https://leetcode.com/problems/validate-binary-search-tree/
 Sort Colors	| Arrays |Medium | https://leetcode.com/problems/sort-colors/
+Lowest Common ancestor 
+Lowest Common Ancestor of Binary search Tree | Binary Search Tree |Easy	| https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
