@@ -34,3 +34,4 @@ Validate Binary Search Tree	| Binary Search Tree |	Medium | https://leetcode.com
 Sort Colors	| Arrays |Medium | https://leetcode.com/problems/sort-colors/
 Lowest Common Ancestor of Binary search Tree | Binary Search Tree |Easy	| https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 Kth smallest element in Binary search tree| Binary Search Tree| Medium| https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+Same Tree | Binary tree	| Easy | https://leetcode.com/problems/longest-palindromic-substring/
