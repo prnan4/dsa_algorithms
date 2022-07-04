@@ -36,4 +36,4 @@ Sort Colors	| Arrays |Medium | Grind 75 | https://leetcode.com/problems/sort-col
 Lowest Common Ancestor of Binary search Tree | Binary Search Tree |Easy	| Grind 75 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 Kth smallest element in Binary search tree| Binary Search Tree| Medium| Grind 75 | https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 Same Tree | Binary tree	| Easy | Blind 75 | https://leetcode.com/problems/longest-palindromic-substring/
-Subtree Of Another Tree | Binary Tree | Easy | Blind 75 | https://leetcode.com/problems/subtree-of-another-tree/
+Subtree Of Another Tree | Binary Tree | Easy | Blind 75 | https://leetcode.com/problems/subtree-of-another-tree/Implement Trie |Trie | Medium| Grind 75 | https://leetcode.com/problems/implement-trie-prefix-tree/	
