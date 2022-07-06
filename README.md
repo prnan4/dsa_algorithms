@@ -38,3 +38,4 @@ Kth smallest element in Binary search tree| Binary Search Tree| Medium| Grind 75
 Same Tree | Binary tree	| Easy | Blind 75 | https://leetcode.com/problems/longest-palindromic-substring/
 Subtree Of Another Tree | Binary Tree | Easy | Blind 75 | https://leetcode.com/problems/subtree-of-another-tree/Implement Trie |Trie | Medium| Grind 75 | https://leetcode.com/problems/implement-trie-prefix-tree/	
 Min Stack	| Stack| Medium | Grind 75 |  https://leetcode.com/problems/min-stack/solution/
+Reverse String | Recursion | Easy | No List | https://leetcode.com/problems/reverse-string/
