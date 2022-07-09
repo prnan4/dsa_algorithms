@@ -40,3 +40,4 @@ Subtree Of Another Tree | Binary Tree | Easy | Blind 75 | https://leetcode.com/p
 Min Stack	| Stack| Medium | Grind 75 |  https://leetcode.com/problems/min-stack/solution/
 Reverse String | Recursion | Easy | No List | https://leetcode.com/problems/reverse-string/
 First Bad Version | Binary Search | Easy | Grind 75 |https://leetcode.com/problems/first-bad-version/	
+Subsets | Recursion	| Medium |Grind 75	|  https://leetcode.com/problems/subsets/
