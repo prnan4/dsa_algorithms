@@ -42,3 +42,4 @@ Reverse String | Recursion | Easy | No List | https://leetcode.com/problems/reve
 First Bad Version | Binary Search | Easy | Grind 75 |https://leetcode.com/problems/first-bad-version/	
 Subsets | Recursion	| Medium |Grind 75	|  https://leetcode.com/problems/subsets/
 Combination Sum	| Recursion	| Medium | Grind 75 | https://leetcode.com/problems/combination-sum/
+Balanced Binary tree | Binary tree | Easy | Grind 75 | https://leetcode.com/problems/balanced-binary-tree/submissions/
