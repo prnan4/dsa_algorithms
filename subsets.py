@@ -48,3 +48,20 @@ class Solution(object):
             
         backtrack(0)
         return output
+
+    def subsetsMethod2(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[List[int]]
+        """
+        output = []
+        
+        def backtrack(start, combination):
+            output.append(combination[:])
+            for i in range(start, len(nums)):
+                combination.append(nums[i])
+                backtrack(i+1, combination)
+                combination.pop()
+        backtrack(0, [])
+        return output
+            
