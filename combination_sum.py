@@ -22,3 +22,25 @@ class Solution(object):
         
         findCombinations(0, 0, [])
         return output
+
+    def combinationSumMethod2(self, candidates, target):
+        """
+        :type candidates: List[int]
+        :type target: int
+        :rtype: List[List[int]]
+        """
+        output = []
+        
+        def backtrack(subtotal, combination, start):
+            
+            if subtotal > target:
+                return
+            if subtotal == target:
+                output.append(combination[:])
+                
+            for i in range(start, len(candidates)):
+                combination.append(candidates[i])
+                backtrack(subtotal + candidates[i], combination, i)
+                combination.pop()
+        backtrack(0, [], 0)
+        return output
