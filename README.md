@@ -49,3 +49,4 @@ Largest rectangle in Histogram	| Stack | 	Hard | Grind 75 | https://leetcode.com
 Combination Sum II	| Recursion/Arrays	| Medium| Neetcode |https://leetcode.com/problems/combination-sum-ii/	
 Permutations | Recursion/Arrays	| Medium | Grind 75 |	https://leetcode.com/problems/permutations/	
 Ransom Note	| Hash table | Easy	| Grind 75 | https://leetcode.com/problems/ransom-note/	
+Binary Tree Right Side View	| Binary tree | Medium | Grind 75 | https://leetcode.com/problems/binary-tree-right-side-view/
