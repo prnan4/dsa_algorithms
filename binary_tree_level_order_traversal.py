@@ -23,4 +23,25 @@ class Solution(object):
             return result
             
         return dfs(root, 0)
+
+    def levelOrderIterativeUsingQueue(self, root):
+        """
+        :type root: TreeNode
+        :rtype: List[List[int]]
+        """
+        result = []
+        if not root: return result
         
+        queue = [root]
+        while queue:
+            levelnodes = []
+            qlen = len(queue)
+            
+            for i in range(qlen):
+                root = queue.pop(0)
+                levelnodes.append(root.val)
+                if root.left: queue.append(root.left)
+                if root.right: queue.append(root.right)
+    
+            result.append(levelnodes)
+        return result
