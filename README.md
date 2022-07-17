@@ -45,7 +45,7 @@ Combination Sum	| Recursion	| Medium | Grind 75 | https://leetcode.com/problems/
 Balanced Binary tree | Binary tree | Easy | Grind 75 | https://leetcode.com/problems/balanced-binary-tree/submissions/
 Subsets II | Recursion | Medium	| Neetcode | https://leetcode.com/problems/subsets-ii/	
 Evaluate Reverse Polish Notation | Stacks | Medium	| Grind 75 | 	https://leetcode.com/problems/evaluate-reverse-polish-notation/		
-Largest rectangle in Histogram	| Stack | 	Hard | Grind 75 | https://leetcode.com/problems/largest-rectangle-in-histogram/	Grind 75
+Largest rectangle in Histogram	| Stack | 	Hard | Grind 75 | https://leetcode.com/problems/largest-rectangle-in-histogram/	
 Combination Sum II	| Recursion/Arrays	| Medium| Neetcode |https://leetcode.com/problems/combination-sum-ii/	
 Permutations | Recursion/Arrays	| Medium | Grind 75 |	https://leetcode.com/problems/permutations/	
 Ransom Note	| Hash table | Easy	| Grind 75 | https://leetcode.com/problems/ransom-note/	
