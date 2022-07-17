@@ -5,7 +5,7 @@
 #         self.left = left
 #         self.right = right
 class Solution(object):
-    def levelOrder(self, root):
+    def levelOrderRecursive(self, root):
         """
         :type root: TreeNode
         :rtype: List[List[int]]
