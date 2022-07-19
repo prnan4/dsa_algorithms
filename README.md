@@ -52,3 +52,4 @@ Ransom Note	| Hash table | Easy	| Grind 75 | https://leetcode.com/problems/ranso
 Binary Tree Right Side View	| Binary tree | Medium | Grind 75 | https://leetcode.com/problems/binary-tree-right-side-view/
 Add Binary	| Binary | Easy | Revision	| Grind 75 |	https://leetcode.com/problems/add-binary/	
 N Queens | Backtracking	| Hard |  Neetcode | https://leetcode.com/problems/n-queens/	
+Climb stairs | Dynamic programming | Easy | Grind 75	| https://leetcode.com/problems/climbing-stairs/	
