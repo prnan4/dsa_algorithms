@@ -53,4 +53,5 @@ Binary Tree Right Side View	| Binary tree | Medium | Grind 75 | https://leetcode
 Add Binary	| Binary | Easy | Revision	| Grind 75 |	https://leetcode.com/problems/add-binary/	
 N Queens | Backtracking	| Hard |  Neetcode | https://leetcode.com/problems/n-queens/	
 Climb stairs | Dynamic programming | Easy | Grind 75	| https://leetcode.com/problems/climbing-stairs/	
-Maximum Subarray | Arrays | Easy | Grind 75 | https://leetcode.com/problems/maximum-subarray/	
+Majority Element | Arrays | Easy | Grind 75 | https://leetcode.com/problems/maximum-subarray/	
+Maximum Subarray | Dynamic programming | Easy | Grind 75 | https://leetcode.com/problems/maximum-subarray/	
