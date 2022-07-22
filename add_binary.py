@@ -1,5 +1,5 @@
 class Solution(object):
-    def addBinary(self, a, b):
+    def addBinaryBuiltInFunction(self, a, b):
         """
         :type a: str
         :type b: str

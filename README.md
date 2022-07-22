@@ -57,3 +57,6 @@ Climb stairs | Dynamic programming | Easy | Grind 75	| https://leetcode.com/prob
 Majority Element | Arrays | Easy | Grind 75 | https://leetcode.com/problems/maximum-subarray/	
 Maximum Subarray | Dynamic programming | Easy | Grind 75 | https://leetcode.com/problems/maximum-subarray/	
 Coin Change | Dynamic programming | Medium	| Grind 75	| https://leetcode.com/problems/coin-change/	
+Valid Anagram | Strings	| Easy | Grind 75 |	https://leetcode.com/problems/valid-anagram/solution/	
+Min cost climbing stairs | Dynamic programming | Easy | Neetcode | https://leetcode.com/problems/min-cost-climbing-stairs/
+Valid Anagram | Strings	| Easy	| Grind 75 | https://leetcode.com/problems/valid-anagram/solution/
