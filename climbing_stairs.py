@@ -1,5 +1,5 @@
 class Solution(object):
-    #USing memoization
+    #Using memoization
     def climbStairs(self, n):
         """
         :type n: int

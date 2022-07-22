@@ -55,3 +55,4 @@ N Queens | Backtracking	| Hard |  Neetcode | https://leetcode.com/problems/n-que
 Climb stairs | Dynamic programming | Easy | Grind 75	| https://leetcode.com/problems/climbing-stairs/	
 Majority Element | Arrays | Easy | Grind 75 | https://leetcode.com/problems/maximum-subarray/	
 Maximum Subarray | Dynamic programming | Easy | Grind 75 | https://leetcode.com/problems/maximum-subarray/	
+Coin Change | Dynamic programming | Medium	| Grind 75	| https://leetcode.com/problems/coin-change/	
