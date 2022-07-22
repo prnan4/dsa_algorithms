@@ -83,3 +83,30 @@ class Solution(object):
         if result == float('inf'): return -1
         else: return result
         
+    # Dynamic Programming bottom up
+    def coinChangeDP(self, coins, amount):
+        """
+        :type coins: List[int]
+        :type amount: int
+        :rtype: int
+        """
+        
+class Solution(object):
+    def coinChange(self, coins, amount):
+        """
+        :type coins: List[int]
+        :type amount: int
+        :rtype: int
+        """
+        
+        amounts = [float('inf')] * (amount + 1)
+        amounts[0] = 0
+        
+        for i in range(len(amounts)):
+            for j in range(len(coins)):
+                if coins[j] <= i:
+                    amounts[i] = min(amounts[i], 1 + amounts[i - coins[j]])
+        
+        if amounts[amount] == float('inf'): return -1 
+        return amounts[amount]
+        

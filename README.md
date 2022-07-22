@@ -36,7 +36,8 @@ Sort Colors	| Arrays |Medium | Grind 75 | https://leetcode.com/problems/sort-col
 Lowest Common Ancestor of Binary search Tree | Binary Search Tree |Easy	| Grind 75 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 Kth smallest element in Binary search tree| Binary Search Tree| Medium| Grind 75 | https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 Same Tree | Binary tree	| Easy | Blind 75 | https://leetcode.com/problems/longest-palindromic-substring/
-Subtree Of Another Tree | Binary Tree | Easy | Blind 75 | https://leetcode.com/problems/subtree-of-another-tree/Implement Trie |Trie | Medium| Grind 75 | https://leetcode.com/problems/implement-trie-prefix-tree/	
+Subtree Of Another Tree | Binary Tree | Easy | Blind 75 | https://leetcode.com/problems/subtree-of-another-tree
+Implement Trie |Trie | Medium| Grind 75 | https://leetcode.com/problems/implement-trie-prefix-tree/	
 Min Stack	| Stack| Medium | Grind 75 |  https://leetcode.com/problems/min-stack/solution/
 Reverse String | Recursion | Easy | No List | https://leetcode.com/problems/reverse-string/
 First Bad Version | Binary Search | Easy | Grind 75 |https://leetcode.com/problems/first-bad-version/	
@@ -50,7 +51,7 @@ Combination Sum II	| Recursion/Arrays	| Medium| Neetcode |https://leetcode.com/p
 Permutations | Recursion/Arrays	| Medium | Grind 75 |	https://leetcode.com/problems/permutations/	
 Ransom Note	| Hash table | Easy	| Grind 75 | https://leetcode.com/problems/ransom-note/	
 Binary Tree Right Side View	| Binary tree | Medium | Grind 75 | https://leetcode.com/problems/binary-tree-right-side-view/
-Add Binary	| Binary | Easy | Revision	| Grind 75 |	https://leetcode.com/problems/add-binary/	
+Add Binary	| Binary | Easy | Grind 75 | https://leetcode.com/problems/add-binary/	
 N Queens | Backtracking	| Hard |  Neetcode | https://leetcode.com/problems/n-queens/	
 Climb stairs | Dynamic programming | Easy | Grind 75	| https://leetcode.com/problems/climbing-stairs/	
 Majority Element | Arrays | Easy | Grind 75 | https://leetcode.com/problems/maximum-subarray/	
