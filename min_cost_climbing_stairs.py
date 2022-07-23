@@ -27,3 +27,18 @@ class Solution(object):
             return memory[n]
             
         return minCostToClimb(len(cost))
+
+    def minCostClimbingStairsDPBottomUp(self, cost):
+        """
+        :type cost: List[int]
+        :rtype: int
+        """
+        #Stores minimum cost
+        memory = [float('inf')] * (len(cost) + 1)
+        
+        memory[0] = 0
+        memory[1] = 0
+        
+        for i in range(2, len(cost)+1):
+            memory[i] = min(cost[i-1] + memory[i-1], cost[i-2] + memory[i-2])
+        return memory[len(cost)]
