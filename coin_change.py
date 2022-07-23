@@ -1,5 +1,7 @@
 class Solution(object):
+    #========================== APPROACH 1 ==========================
     # Pure recursion. Time limit exceeded
+
     def coinChange(self, coins, amount):
         """
         :type coins: List[int]
@@ -27,6 +29,7 @@ class Solution(object):
             result = min(result, len(combination))
         return result
 
+    #========================== APPROACH 2 ==========================
     # Without memoization
     def coinChangeRecursionStoringRemainingAmount(self, coins, amount):
         """
@@ -51,8 +54,9 @@ class Solution(object):
         result = getMinCoins(coins, amount)
         if result == float('inf'): return -1
         else: return result
-        
-    #Recursion with memoization
+    
+    # ========================== APPROACH 3 ==========================  
+    #Recursion with memoization using 1D array
     def coinChangeRecursionWithMemoization(self, coins, amount):
         """
         :type coins: List[int]
@@ -82,8 +86,9 @@ class Solution(object):
         result = getMinCoins(amount)
         if result == float('inf'): return -1
         else: return result
-        
-    # Dynamic Programming bottom up
+
+    #========================== APPROACH 4 ==========================  
+    # Dynamic Programming bottom up using 1D array
     def coinChangeDP(self, coins, amount):
         """
         :type coins: List[int]
@@ -101,3 +106,60 @@ class Solution(object):
         if amounts[amount] == float('inf'): return -1 
         return amounts[amount]
         
+    #========================== APPROACH 5 ==========================
+    # Unbounded knapsack style, recursive without memoization
+
+    def coinChange(self, coins, amount):
+        """
+        :type coins: List[int]
+        :type amount: int
+        :rtype: int
+        """
+        def minCoins(amount, coins):
+            
+            if amount == 0:
+                return 0
+            if len(coins)==0:
+                return float('inf') - 1
+            
+            if (coins[len(coins)- 1] <= amount):
+                return min(minCoins(amount - coins[len(coins)- 1], coins) +  1, minCoins(amount , coins[:-1]))
+            else:
+                return minCoins(amount , coins[:-1])
+        
+        result = minCoins(amount, coins)
+        if result == float('inf'):
+            return -1
+        return result
+
+
+    #========================== APPROACH 5 ==========================
+    # Unbounded knapsack style, recursive with memoization
+    def coinChange(self, coins, amount):
+        """
+        :type coins: List[int]
+        :type amount: int
+        :rtype: int
+        """
+        
+        memory = [[float('inf') for _ in range(len(coins) + 1)] for _ in range(amount +1)]
+        def minCoins(amount, coins):
+        
+            if amount == 0:
+                return 0
+            if len(coins)==0:
+                return float('inf') - 1
+
+            if memory[amount][len(coins)] != float('inf'): 
+                return memory[amount][len(coins)]
+            
+            if (coins[len(coins)- 1] <= amount):
+                memory[amount][len(coins)] = min(minCoins(amount - coins[len(coins)- 1], coins) +  1, minCoins(amount , coins[:-1])) 
+            else:
+                memory[amount][len(coins)] =  minCoins(amount , coins[:-1])
+            return memory[amount][len(coins)]
+        
+        result = minCoins(amount, coins)
+        if result == float('inf'):
+            return -1
+        return result

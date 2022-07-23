@@ -1,5 +1,5 @@
 class Solution(object):
-    def minCostClimbingStairs(self, cost):
+    def minCostClimbingStairsRecursionWithMemoization(self, cost):
         """
         :type cost: List[int]
         :rtype: int
