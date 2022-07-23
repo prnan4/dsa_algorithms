@@ -39,16 +39,16 @@ Same Tree | Binary tree	| Easy | Blind 75 | https://leetcode.com/problems/longes
 Subtree Of Another Tree | Binary Tree | Easy | Blind 75 | https://leetcode.com/problems/subtree-of-another-tree
 Implement Trie |Trie | Medium| Grind 75 | https://leetcode.com/problems/implement-trie-prefix-tree/	
 Min Stack	| Stack| Medium | Grind 75 |  https://leetcode.com/problems/min-stack/solution/
-Reverse String | Recursion | Easy | No List | https://leetcode.com/problems/reverse-string/
+Reverse String | Backtracking| Easy | No List | https://leetcode.com/problems/reverse-string/
 First Bad Version | Binary Search | Easy | Grind 75 |https://leetcode.com/problems/first-bad-version/	
-Subsets | Recursion	| Medium |Grind 75	|  https://leetcode.com/problems/subsets/
-Combination Sum	| Recursion	| Medium | Grind 75 | https://leetcode.com/problems/combination-sum/
+Subsets | Backtracking | Medium |Grind 75	|  https://leetcode.com/problems/subsets/
+Combination Sum	| Backtracking | Medium | Grind 75 | https://leetcode.com/problems/combination-sum/
 Balanced Binary tree | Binary tree | Easy | Grind 75 | https://leetcode.com/problems/balanced-binary-tree/submissions/
-Subsets II | Recursion | Medium	| Neetcode | https://leetcode.com/problems/subsets-ii/	
+Subsets II | Backtracking | Medium	| Neetcode | https://leetcode.com/problems/subsets-ii/	
 Evaluate Reverse Polish Notation | Stacks | Medium	| Grind 75 | 	https://leetcode.com/problems/evaluate-reverse-polish-notation/		
 Largest rectangle in Histogram	| Stack | 	Hard | Grind 75 | https://leetcode.com/problems/largest-rectangle-in-histogram/	
-Combination Sum II	| Recursion/Arrays	| Medium| Neetcode |https://leetcode.com/problems/combination-sum-ii/	
-Permutations | Recursion/Arrays	| Medium | Grind 75 |	https://leetcode.com/problems/permutations/	
+Combination Sum II	| Backtracking/Arrays	| Medium| Neetcode |https://leetcode.com/problems/combination-sum-ii/	
+Permutations | Backtracking/Arrays	| Medium | Grind 75 |	https://leetcode.com/problems/permutations/	
 Ransom Note	| Hash table | Easy	| Grind 75 | https://leetcode.com/problems/ransom-note/	
 Binary Tree Right Side View	| Binary tree | Medium | Grind 75 | https://leetcode.com/problems/binary-tree-right-side-view/
 Add Binary	| Binary | Easy | Grind 75 | https://leetcode.com/problems/add-binary/	
@@ -59,4 +59,3 @@ Maximum Subarray | Dynamic programming | Easy | Grind 75 | https://leetcode.com/
 Coin Change | Dynamic programming | Medium	| Grind 75	| https://leetcode.com/problems/coin-change/	
 Valid Anagram | Strings	| Easy | Grind 75 |	https://leetcode.com/problems/valid-anagram/solution/	
 Min cost climbing stairs | Dynamic programming | Easy | Neetcode | https://leetcode.com/problems/min-cost-climbing-stairs/
-Valid Anagram | Strings	| Easy	| Grind 75 | https://leetcode.com/problems/valid-anagram/solution/
