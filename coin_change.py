@@ -141,25 +141,25 @@ class Solution(object):
         :type amount: int
         :rtype: int
         """
+        memory = [[None for _ in range(len(coins) + 1)] for _ in range(amount +1)]
         
-        memory = [[float('inf') for _ in range(len(coins) + 1)] for _ in range(amount +1)]
         def minCoins(amount, coins):
-        
+            n = len(coins)
             if amount == 0:
                 return 0
-            if len(coins)==0:
-                return float('inf') - 1
+            if n==0:
+                return float('inf') 
 
-            if memory[amount][len(coins)] != float('inf'): 
-                return memory[amount][len(coins)]
+            if memory[amount][n]:
+                return memory[amount][n]
             
-            if (coins[len(coins)- 1] <= amount):
-                memory[amount][len(coins)] = min(minCoins(amount - coins[len(coins)- 1], coins) +  1, minCoins(amount , coins[:-1])) 
+            if (coins[n - 1] <= amount):
+                memory[amount][n] = min(minCoins(amount - coins[n- 1], coins) +  1, minCoins(amount , coins[:-1])) 
             else:
-                memory[amount][len(coins)] =  minCoins(amount , coins[:-1])
-            return memory[amount][len(coins)]
+                 memory[amount][n] =  minCoins(amount , coins[:-1])
+            return memory[amount][n]
         
         result = minCoins(amount, coins)
-        if result == float('inf'):
+        if result == float('inf') :
             return -1
         return result
