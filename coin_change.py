@@ -133,7 +133,7 @@ class Solution(object):
         return result
 
 
-    #========================== APPROACH 5 ==========================
+    #========================== APPROACH 6 ==========================
     # Unbounded knapsack style, recursive with memoization
     def coinChange(self, coins, amount):
         """

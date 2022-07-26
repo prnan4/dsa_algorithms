@@ -1,4 +1,6 @@
 class Solution(object):
+
+    # ========================== APPROACH 1 ==========================
     def minCostClimbingStairsRecursionWithMemoization(self, cost):
         """
         :type cost: List[int]
@@ -28,6 +30,7 @@ class Solution(object):
             
         return minCostToClimb(len(cost))
 
+    # ========================== APPROACH 2 ==========================
     def minCostClimbingStairsDPBottomUp(self, cost):
         """
         :type cost: List[int]

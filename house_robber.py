@@ -1,4 +1,5 @@
 class Solution(object):
+    # ========================== APPROACH 1 ==========================
     # Recursion without memoization
     def rob(self, nums):
         """
@@ -20,6 +21,7 @@ class Solution(object):
             
         return maxAmount(nums)
 
+    # ========================== APPROACH 2 ==========================
     # Recursion with memoization
     def rob(self, nums):
         """
@@ -43,7 +45,8 @@ class Solution(object):
             else:
                 memory[n-1] = max(nums[n-1] + maxAmount(nums[:-2]), maxAmount(nums[:-1]))
             return memory[n-1]
-        
+
+    # ========================== APPROACH 3 ==========================
     # Bottom Up DP
     def rob(self, nums):
         """

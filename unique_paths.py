@@ -1,4 +1,6 @@
 class Solution(object):
+
+    # ========================== APPROACH 1 ==========================
     # Recursion without memoization
     def uniquePaths(self, m, n):
         """
@@ -22,6 +24,7 @@ class Solution(object):
         
         return maxWays(m-1, n-1)
 
+    # ========================== APPROACH 2 ==========================
     # Recursion with memoization
     def uniquePaths(self, m, n):
         """
@@ -44,7 +47,8 @@ class Solution(object):
             else:
                 memory[m][n] = maxWays(m, n-1) + maxWays(m-1, n)
             return memory[m][n] 
-        
+
+    # ========================== APPROACH 3 ==========================        
     # Bottom up DP
     def uniquePaths(self, m, n):
         """
