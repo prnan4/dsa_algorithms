@@ -1,4 +1,6 @@
 class Solution(object):
+
+    # Using monotonic stack
     def dailyTemperatures(self, temperatures):
         """
         :type temperatures: List[int]

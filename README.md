@@ -64,3 +64,4 @@ Unique Path	| Dynamic Programming | Medium	| Grind 75	| https://leetcode.com/pro
 Search in a rotated sorted array | Binary Search | Medium | Grind 75 | https://leetcode.com/problems/search-in-rotated-sorted-array/
 Flood fill	| Graph	| Easy	| Grind 75 | https://leetcode.com/problems/flood-fill/	
 Daily Temperatures | Stack	| Medium | Neetcode | https://leetcode.com/problems/daily-temperatures/	
+Longest Common subsequence | Dynamic Programming | Medium	| Neetcode	| https://leetcode.com/problems/longest-common-subsequence/	
