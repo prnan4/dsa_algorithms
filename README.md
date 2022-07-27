@@ -63,3 +63,4 @@ House Robber | Dynamic Programming | Medium	| Neetcode	| https://leetcode.com/pr
 Unique Path	| Dynamic Programming | Medium	| Grind 75	| https://leetcode.com/problems/unique-paths/	
 Search in a rotated sorted array | Binary Search | Medium | Grind 75 | https://leetcode.com/problems/search-in-rotated-sorted-array/
 Flood fill	| Graph	| Easy	| Grind 75 | https://leetcode.com/problems/flood-fill/	
+Daily Temperatures | Stack	| Medium | Neetcode | https://leetcode.com/problems/daily-temperatures/	
