@@ -13,11 +13,8 @@ class Solution(object):
                 return 0
             
             n = len(nums)
-            # Edge case
-            if n == 1:
-                return max(nums[n-1] + maxAmount(nums[:-1]), maxAmount(nums[:-1]))
-            else:
-                return max(nums[n-1] + maxAmount(nums[:-2]), maxAmount(nums[:-1]))
+            # Note: You don't have to handle edge case n == 1, seperately. nums[:-2] for n == 1 will still yield an empty array.
+            return max(nums[n-1] + maxAmount(nums[:-2]), maxAmount(nums[:-1]))
             
         return maxAmount(nums)
 
@@ -39,12 +36,11 @@ class Solution(object):
             if memory[n-1] is not None:
                 return memory[n-1]
             
-            # Edge case
-            if n == 1:
-                memory[n-1] = max(nums[n-1] + maxAmount(nums[:-1]), maxAmount(nums[:-1]))
-            else:
-                memory[n-1] = max(nums[n-1] + maxAmount(nums[:-2]), maxAmount(nums[:-1]))
+            # Note: You don't have to handle edge case n == 1, seperately. nums[:-2] for n == 1 will still yield an empty array.
+            memory[n-1] = max(nums[n-1] + maxAmount(nums[:-2]), maxAmount(nums[:-1]))
             return memory[n-1]
+        
+        return maxAmount(nums)
 
     # ========================== APPROACH 3 ==========================
     # Bottom Up DP
