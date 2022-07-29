@@ -66,3 +66,4 @@ Flood fill	| Graph	| Easy	| Grind 75 | https://leetcode.com/problems/flood-fill/
 Daily Temperatures | Stack	| Medium | Neetcode | https://leetcode.com/problems/daily-temperatures/	
 Longest Common subsequence | Dynamic Programming | Medium	| Neetcode	| https://leetcode.com/problems/longest-common-subsequence/	
 House Robber 2 | Dynamic Programming | Medium	| Neetcode |	https://leetcode.com/problems/house-robber-ii/	
+Car Fleet | Stack | Medium	| Neetcode | https://leetcode.com/problems/car-fleet/	
