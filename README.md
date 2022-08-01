@@ -67,3 +67,5 @@ Daily Temperatures | Stack	| Medium | Neetcode | https://leetcode.com/problems/d
 Longest Common subsequence | Dynamic Programming | Medium	| Neetcode	| https://leetcode.com/problems/longest-common-subsequence/	
 House Robber 2 | Dynamic Programming | Medium	| Neetcode |	https://leetcode.com/problems/house-robber-ii/	
 Car Fleet | Stack | Medium	| Neetcode | https://leetcode.com/problems/car-fleet/	
+Implement Queue using Stack	| Stack	| Easy	| Grind 75 | https://leetcode.com/problems/car-fleet/	
+Implement Stack using Queue |	Stack	| Easy	| No List |	https://leetcode.com/problems/implement-stack-using-queues/
