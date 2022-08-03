@@ -72,3 +72,4 @@ Implement Stack using Queue |	Stack	| Easy	| No List |	https://leetcode.com/prob
 Lowest common ancestor of binary tree |	Binary Tree	Medium	| Medium	|	Grind 75 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/	
 Diameter of a binary tree | Binary Tree	| Easy	| Grind 75 | 	https://leetcode.com/problems/diameter-of-binary-tree/solution/	
 String to Integer | Strings | 	Medium	| Grind 75 |	https://leetcode.com/problems/string-to-integer-atoi/	
+Merge two sorted lists	| Linked List | 	Easy | Grind 75 | 	https://leetcode.com/problems/merge-two-sorted-lists/	
