@@ -88,7 +88,7 @@ class Solution(object):
         else: return result
 
     #========================== APPROACH 4 ==========================  
-    # Dynamic Programming bottom up using 1D array
+    # Dynamic Programming bottom up using 2D array
     def coinChangeDP(self, coins, amount):
         """
         :type coins: List[int]
