@@ -76,3 +76,4 @@ Merge two sorted lists	| Linked List | 	Easy | Grind 75 | 	https://leetcode.com/
 Number of Islands | Graph | Medium	| Grind 75	|	https://leetcode.com/problems/number-of-islands/	
 01 Matrix | Graph |	Medium	|Grind 75 |	https://leetcode.com/problems/01-matrix/submissions/	
 Course schedule |	Graph | Medium | Grind 75 |	https://leetcode.com/problems/course-schedule/	
+Longest increasing subsequence	| Dynamic Programming	| Medium | Neetcode | https://leetcode.com/problems/longest-increasing-subsequence/	
