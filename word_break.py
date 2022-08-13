@@ -60,3 +60,21 @@ class Solution(object):
             return memory[word]
         
         return checkWordBreak(s)
+
+    # ========================== APPROACH 3 ==========================
+    # Bottom up DP
+    def wordBreak(self, s, wordDict):
+        """
+        :type s: str
+        :type wordDict: List[str]
+        :rtype: bool
+        """
+        memory = [False for _ in range(len(s)+1)]
+        memory[0] = True
+        
+        for i in range(1, len(s)+1):
+            for j in range(0, i):
+                if memory[j] and (s[j:i] in wordDict):
+                    memory[i] = True
+                    break
+        return memory[len(s)]
