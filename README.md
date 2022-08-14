@@ -79,3 +79,4 @@ Course schedule |	Graph | Medium | Grind 75 |	https://leetcode.com/problems/cour
 Longest increasing subsequence	| Dynamic Programming	| Medium | Neetcode | https://leetcode.com/problems/longest-increasing-subsequence/	
 Word break problem	| Dynamic Programming | Medium	| Neetcode |https://leetcode.com/problems/word-break/	
 Add two numbers	| Linked List | Medium	| Neetcode	| https://leetcode.com/problems/add-two-numbers/
+Happy Number | Math	| Easy	| Neetcode |	https://leetcode.com/problems/happy-number/
