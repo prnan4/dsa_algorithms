@@ -86,6 +86,3 @@ class Solution(object):
             
         return memory[l1][l2]
 
-
-
-

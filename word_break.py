@@ -1,7 +1,7 @@
 class Solution(object):
 
     # ========================== APPROACH 1 ==========================
-    # Recursion without memoization - Time Limit exceeded
+    # Recursion without memoization 
 
     def wordBreak(self, s, wordDict):
         """
