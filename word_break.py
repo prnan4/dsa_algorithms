@@ -26,7 +26,12 @@ class Solution(object):
                     if suffix_found is True: 
                         return prefix_found and suffix_found
             return False
+    """
+    ['penapple'] ['pen', 'apple']
     
+    ['penapple'] [ 'pe', 'pen', 'apple']
+    """
+
     # ========================== APPROACH 2 ==========================
     # Recursion with memoization - Solution accepted. 
     # Memory is used to store the result for previously computed for words.

@@ -81,3 +81,4 @@ Word break problem	| Dynamic Programming | Medium	| Neetcode |https://leetcode.c
 Add two numbers	| Linked List | Medium	| Neetcode	| https://leetcode.com/problems/add-two-numbers/
 Happy Number | Math	| Easy	| Neetcode |	https://leetcode.com/problems/happy-number/
 Jump Game | Dynamic Programming	| Medium | Neetcode	| https://leetcode.com/problems/jump-game/
+Search Insert Position | Array | Easy | No list | https://leetcode.com/problems/search-insert-position/
