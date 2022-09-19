@@ -82,3 +82,4 @@ Add two numbers	| Linked List | Medium	| Neetcode	| https://leetcode.com/problem
 Happy Number | Math	| Easy	| Neetcode |	https://leetcode.com/problems/happy-number/
 Jump Game | Dynamic Programming	| Medium | Neetcode	| https://leetcode.com/problems/jump-game/
 Search Insert Position | Array | Easy | No list | https://leetcode.com/problems/search-insert-position/
+Minimum cost for tickets | Dynamic Programming	| Medium	| No List | https://leetcode.com/problems/minimum-cost-for-tickets/
