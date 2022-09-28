@@ -22,7 +22,7 @@ class Solution(object):
                     newInterval_added = True
                     merge_interval(interval)
                 else:
-                     result.append(interval)
+                    result.append(interval)
             else:
                 merge_interval(interval)
         
@@ -30,4 +30,15 @@ class Solution(object):
             merge_interval(newInterval)
         
         return result
-        
+
+"""
+Edge cases:
+[[1, 5]]
+[1,7]
+
+[[2, 7]]
+[0, 3]
+
+[[2, 7]]
+[8, 10]
+"""
