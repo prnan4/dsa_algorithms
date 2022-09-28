@@ -84,4 +84,5 @@ Jump Game | Dynamic Programming	| Medium | Neetcode	| https://leetcode.com/probl
 Search Insert Position | Array | Easy | No list | https://leetcode.com/problems/search-insert-position/
 Minimum cost for tickets | Dynamic Programming	| Medium	| No List | https://leetcode.com/problems/minimum-cost-for-tickets/
 Product of array except self | Arrays | Medium	| Grind 75 | https://leetcode.com/problems/product-of-array-except-self/	
-Merge Intervals | 	Arrays	| Medium	| Done	| Grind 75	| https://leetcode.com/problems/merge-intervals/	
+Merge Intervals | 	Arrays	| Medium	| Grind 75	| https://leetcode.com/problems/merge-intervals/	
+Insert Intervals | Arrays	| Medium	| Grind 75	https://leetcode.com/problems/insert-interval/	
