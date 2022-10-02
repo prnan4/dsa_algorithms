@@ -86,3 +86,4 @@ Minimum cost for tickets | Dynamic Programming	| Medium	| No List | https://leet
 Product of array except self | Arrays | Medium	| Grind 75 | https://leetcode.com/problems/product-of-array-except-self/	
 Merge Intervals | 	Arrays	| Medium	| Grind 75	| https://leetcode.com/problems/merge-intervals/	
 Insert Intervals | Arrays	| Medium	| Grind 75	https://leetcode.com/problems/insert-interval/	
+Group Anagrams	| Arrays	| Medium	| Grind 75 |	https://leetcode.com/problems/group-anagrams/	
