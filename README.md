@@ -88,3 +88,4 @@ Merge Intervals | 	Arrays	| Medium	| Grind 75	| https://leetcode.com/problems/me
 Insert Intervals | Arrays	| Medium	| Grind 75	https://leetcode.com/problems/insert-interval/	
 Group Anagrams	| Arrays	| Medium	| Grind 75 |	https://leetcode.com/problems/group-anagrams/	
 Rotting Oranges	| Graph	| Medium | Grind 75 |	https://leetcode.com/problems/rotting-oranges/	
+Longest Palindromic substring	| Strings |	Medium	| Grind 75 |	https://leetcode.com/problems/longest-palindromic-substring/	
