@@ -29,7 +29,7 @@ class Solution(object):
 
     # ========================== APPROACH 2 ==========================  
     #Recursion with memoization. Memorising the length of days array.M
-    def mincostTickets(self, days, costs):
+    def mincostTickets2(self, days, costs):
         """
         :type days: List[int]
         :type costs: List[int]
