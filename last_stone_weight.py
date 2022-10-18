@@ -1,7 +1,7 @@
 import heapq
 
+# Tested in Tusimple coding assesment
 class Solution(object):
-
     def lastStoneWeight(self, stones):
         """
         :type stones: List[int]
@@ -31,7 +31,7 @@ class Solution(object):
 
     # Using Heap
     # Pop operation in heap generally returns minimum element present
-    def lastStoneWeight(self, stones):
+    def lastStoneWeight2(self, stones):
         """
         :type stones: List[int]
         :rtype: int

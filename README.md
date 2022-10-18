@@ -91,3 +91,5 @@ Rotting Oranges	| Graph	| Medium | Grind 75 |	https://leetcode.com/problems/rott
 Longest Palindromic substring	| Strings |	Medium	| Grind 75 |	https://leetcode.com/problems/longest-palindromic-substring/	
 Last stone weight | Heap | Easy	| No list |	https://leetcode.com/problems/last-stone-weight/	
 Find minimum in rotated sorted array | Binary Search | Medium | Neetcode | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/	
+Sort integers by number of 1 bits | Bit Manipulation |	Easy | No List |  https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
+Football scores | Binary Search | Easy | No List | No Link
