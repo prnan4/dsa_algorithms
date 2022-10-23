@@ -93,4 +93,5 @@ Last stone weight | Heap | Easy	| No list |	https://leetcode.com/problems/last-s
 Find minimum in rotated sorted array | Binary Search | Medium | Neetcode | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/	
 Remove nth node from end of list | Linked List | 	Medium	| Neetcode |	https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 Sort integers by number of 1 bits | Bit Manipulation |	Easy | No List |  https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
-Football scores | Binary Search | Easy | No List | No Link
+Football scores | Binary Search | Easy | No List | https://leetcode.com/discuss/interview-question/1930478/football-scores-hackerrank-question
+Longest Consequetive Sequence | Arrays	| Medium | Neetcode |	https://leetcode.com/problems/longest-consecutive-sequence/	
