@@ -95,3 +95,4 @@ Remove nth node from end of list | Linked List | 	Medium	| Neetcode |	https://le
 Sort integers by number of 1 bits | Bit Manipulation |	Easy | No List |  https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
 Football scores | Binary Search | Easy | No List | https://leetcode.com/discuss/interview-question/1930478/football-scores-hackerrank-question
 Longest Consequetive Sequence | Arrays	| Medium | Neetcode |	https://leetcode.com/problems/longest-consecutive-sequence/	
+Valid Sudoku | Arrays | Medium	| Neetcode |	https://leetcode.com/problems/valid-sudoku/		
