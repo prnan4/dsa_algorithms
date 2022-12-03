@@ -85,7 +85,7 @@ Search Insert Position | Array | Easy | No list | https://leetcode.com/problems/
 Minimum cost for tickets | Dynamic Programming	| Medium	| No List | https://leetcode.com/problems/minimum-cost-for-tickets/
 Product of array except self | Arrays | Medium	| Grind 75 | https://leetcode.com/problems/product-of-array-except-self/	
 Merge Intervals | 	Arrays	| Medium	| Grind 75	| https://leetcode.com/problems/merge-intervals/	
-Insert Intervals | Arrays	| Medium	| Grind 75	https://leetcode.com/problems/insert-interval/	
+Insert Intervals | Arrays	| Medium	| Grind 75	| https://leetcode.com/problems/insert-interval/	
 Group Anagrams	| Arrays	| Medium	| Grind 75 |	https://leetcode.com/problems/group-anagrams/	
 Rotting Oranges	| Graph	| Medium | Grind 75 |	https://leetcode.com/problems/rotting-oranges/	
 Longest Palindromic substring	| Strings |	Medium	| Grind 75 |	https://leetcode.com/problems/longest-palindromic-substring/	
@@ -96,3 +96,7 @@ Sort integers by number of 1 bits | Bit Manipulation |	Easy | No List |  https:/
 Football scores | Binary Search | Easy | No List | https://leetcode.com/discuss/interview-question/1930478/football-scores-hackerrank-question
 Longest Consequetive Sequence | Arrays	| Medium | Neetcode |	https://leetcode.com/problems/longest-consecutive-sequence/	
 Valid Sudoku | Arrays | Medium	| Neetcode |	https://leetcode.com/problems/valid-sudoku/		
+Boats to save people| Two pointers | 	Medium	|  Neetcode	| https://leetcode.com/problems/boats-to-save-people/
+Partition Labels | Arrays | 	Medium	| No List |	https://leetcode.com/problems/partition-labels/submissions/	
+Remove linked list elements	| Linked List | 	Easy	| No List |	https://leetcode.com/problems/remove-linked-list-elements/submissions/	
+Trapping rain water	| Arrays | 	Hard	| Grind 75 |	https://leetcode.com/problems/trapping-rain-water/submissions/
