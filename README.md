@@ -103,6 +103,7 @@ Remove linked list elements	| Linked List | 	Easy	| No List |	https://leetcode.c
 Trapping rain water	| Arrays | 	Hard	| Grind 75 |	https://leetcode.com/problems/trapping-rain-water/submissions/
 
 
+
 ### Part 2
 
 Problem  | Topics | Difficulty | Problem List | Link
