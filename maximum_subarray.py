@@ -16,4 +16,22 @@ class Solution(object):
             max_sum = max(max_sum, subarray_sum)
             
         return max_sum
+
+    # Dec 26, 2022 revision
+    def maxSubArray(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        max_tot = float('-inf')
+
+        total = 0
+        for ele in nums:
+            total += ele
+            if total > max_tot:
+                max_tot = total
+            if total < 0:
+                total = 0
+        return max_tot
+
         

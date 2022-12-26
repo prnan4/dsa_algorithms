@@ -10,6 +10,7 @@ To strengthen your DSA concepts, you can refer to the following [resource](https
 
 ## Problems Solved
 
+### Part 1
 
 Problem  | Topics | Difficulty | Problem List | Link
 -------- | ------ | ----- | ----- | -----
@@ -100,3 +101,10 @@ Boats to save people| Two pointers | 	Medium	|  Neetcode	| https://leetcode.com/
 Partition Labels | Arrays | 	Medium	| No List |	https://leetcode.com/problems/partition-labels/submissions/	
 Remove linked list elements	| Linked List | 	Easy	| No List |	https://leetcode.com/problems/remove-linked-list-elements/submissions/	
 Trapping rain water	| Arrays | 	Hard	| Grind 75 |	https://leetcode.com/problems/trapping-rain-water/submissions/
+
+
+### Part 2
+
+Problem  | Topics | Difficulty | Problem List | Link
+-------- | ------ | ----- | ----- | -----
+Rotate Matrix | Arrays | Medium | Striver | https://leetcode.com/problems/rotate-image/
