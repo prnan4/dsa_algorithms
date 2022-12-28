@@ -109,3 +109,4 @@ Trapping rain water	| Arrays | 	Hard	| Grind 75 |	https://leetcode.com/problems/
 Problem  | Topics | Difficulty | Problem List | Link
 -------- | ------ | ----- | ----- | -----
 Rotate Matrix | Arrays | Medium | Striver | https://leetcode.com/problems/rotate-image/
+Seach in a 2D matrix | Arrays	| Medium | Striver | https://leetcode.com/problems/search-a-2d-matrix/	
