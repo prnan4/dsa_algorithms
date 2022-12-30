@@ -5,6 +5,7 @@ The following repository contains solutions to the leetcode problems from the fo
 - Grind 75: [Link](https://www.techinterviewhandbook.org/grind75)
 - Blind 75: [Link](https://neetcode.io)
 - Neetcode 150: [Link](https://neetcode.io)
+- Striver SDE Sheet: [Link](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 
 To strengthen your DSA concepts, you can refer to the following [resource](https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts)
 
@@ -112,3 +113,4 @@ Rotate Matrix | Arrays | Medium | Striver | https://leetcode.com/problems/rotate
 Seach in a 2D matrix | Arrays	| Medium | Striver | https://leetcode.com/problems/search-a-2d-matrix/	
 Palindromic Linked List | Linked List | Easy | Striver | https://leetcode.com/problems/palindrome-linked-list/
 Linked List Cycle 2	| Linked List | Medium | Striver |	https://leetcode.com/problems/linked-list-cycle-ii/
+Rotate a list | Linked List	| Medium | Striver |	https://leetcode.com/problems/rotate-list/submissions/
