@@ -1,3 +1,47 @@
+#   Queue simulation
+#
+#   1   2   3   4 
+#
+#   Push operation -> O(1)
+#   We use st.append() to add new element. This simulates the push operation in stack
+#
+#   1   2   3   4   5
+#                   ^
+#                  Top
+#
+#   Pop operation -> O(n)
+#   We use st.pop() n-1 times transferring the element to another stack. We then again transfer the moved elements to original stack.
+#
+#   st1 =   1   2   3   4   5
+#   st2 =   []
+#   
+#   st1 =   1   2   3   4   5
+#   st2 =   5
+#   
+#   st1 =   1   2   3 
+#   st2 =   5   4 
+#
+#   st1 =   1   2   
+#   st2 =   5   4   3
+#
+#   st1 =   1
+#   st2 =   5   4   3   2
+#
+#   Pop st2
+#   st2 =   5   4   3   2
+#
+#   st2 =   5   4   3
+#   st1 =   2
+#
+#   st2 =   5   4   
+#   st1 =   2   3
+#
+#   st2 =   5   
+#   st1 =   2  3   4
+#
+#   st2 =   []
+#   st1 =   2   3   4   5
+
 class MyQueue(object):
 
     def __init__(self):
