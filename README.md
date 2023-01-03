@@ -114,3 +114,5 @@ Seach in a 2D matrix | Arrays	| Medium | Striver | https://leetcode.com/problems
 Palindromic Linked List | Linked List | Easy | Striver | https://leetcode.com/problems/palindrome-linked-list/
 Linked List Cycle 2	| Linked List | Medium | Striver |	https://leetcode.com/problems/linked-list-cycle-ii/
 Rotate a list | Linked List	| Medium | Striver |	https://leetcode.com/problems/rotate-list/submissions/
+Next greater Element | Stack | Easy | Striver | https://leetcode.com/problems/next-greater-element-i/submissions/
+Single Element in a Sorted Array | Binary Search | Medium | Striver | https://leetcode.com/problems/single-element-in-a-sorted-array/	
