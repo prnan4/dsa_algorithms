@@ -116,3 +116,4 @@ Linked List Cycle 2	| Linked List | Medium | Striver |	https://leetcode.com/prob
 Rotate a list | Linked List	| Medium | Striver |	https://leetcode.com/problems/rotate-list/submissions/
 Next greater Element | Stack | Easy | Striver | https://leetcode.com/problems/next-greater-element-i/submissions/
 Single Element in a Sorted Array | Binary Search | Medium | Striver | https://leetcode.com/problems/single-element-in-a-sorted-array/	
+Merge two binary trees	| Binary Tree | Easy | Striver	https://leetcode.com/problems/merge-two-binary-trees/
