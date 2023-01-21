@@ -118,4 +118,4 @@ Next greater Element | Stack | Easy | Striver | https://leetcode.com/problems/ne
 Single Element in a Sorted Array | Binary Search | Medium | Striver | https://leetcode.com/problems/single-element-in-a-sorted-array/	
 Merge two binary trees	| Binary Tree | Easy | Striver	| https://leetcode.com/problems/merge-two-binary-trees/
 Binary tree zig zag level order traversal | Binary Tree	| Medium | Striver | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/	
-Palindrome Partitioning	| Backtracking	| Medium | https://leetcode.com/problems/palindrome-partitioning/submissions/878104124/	
+Palindrome Partitioning	| Backtracking	| Medium | Striver | https://leetcode.com/problems/palindrome-partitioning/submissions/878104124/	
