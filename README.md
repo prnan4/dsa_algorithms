@@ -1,6 +1,6 @@
 # Leetcode solutions
 
-The following repository contains solutions to the leetcode problems from the following problem lists:
+The following repository contains solutions to the problems from the following problem lists:
 
 - Grind 75: [Link](https://www.techinterviewhandbook.org/grind75)
 - Blind 75: [Link](https://neetcode.io)
