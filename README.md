@@ -121,3 +121,5 @@ Binary tree zig zag level order traversal | Binary Tree	| Medium | Striver | htt
 Palindrome Partitioning	| Backtracking	| Medium | Striver | https://leetcode.com/problems/palindrome-partitioning/submissions/878104124/	
 Restore IP Address| Backtracking | Medium | LC Daily Challenge | https://leetcode.com/problems/restore-ip-addresses/description/
 Flip String to monotone increasing	| Arrays | 	Medium | LC Daily Challenge | https://leetcode.com/problems/flip-string-to-monotone-increasing/solutions/
+Subarray sum equals K| Arrays| Medium | LC Daily Challenge | 	https://leetcode.com/problems/subarray-sum-equals-k/description/
+Subarray sum divisible by k | Arrays | Medium | LC Daily Challenge | 	https://leetcode.com/problems/subarray-sums-divisible-by-k/description/
