@@ -123,3 +123,6 @@ Restore IP Address| Backtracking | Medium | LC Daily Challenge | https://leetcod
 Flip String to monotone increasing	| Arrays | 	Medium | LC Daily Challenge | https://leetcode.com/problems/flip-string-to-monotone-increasing/solutions/
 Subarray sum equals K| Arrays| Medium | LC Daily Challenge | 	https://leetcode.com/problems/subarray-sum-equals-k/description/
 Subarray sum divisible by k | Arrays | Medium | LC Daily Challenge | 	https://leetcode.com/problems/subarray-sums-divisible-by-k/description/
+Find the town judge	| Arrays | Easy	| LC Daily Challenge | https://leetcode.com/problems/find-the-town-judge/
+Cheapest flights within k stops | 	Graphs | Medium | LC Daily Challenge | 	https://leetcode.com/problems/cheapest-flights-within-k-stops/description/
+Concatenated words	| Dynamic Programming | Hard | LC Daily Challenge | 	https://leetcode.com/problems/concatenated-words/
