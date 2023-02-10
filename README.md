@@ -126,3 +126,4 @@ Subarray sum divisible by k | Arrays | Medium | LC Daily Challenge | 	https://le
 Find the town judge	| Arrays | Easy	| LC Daily Challenge | https://leetcode.com/problems/find-the-town-judge/
 Cheapest flights within k stops | 	Graphs | Medium | LC Daily Challenge | 	https://leetcode.com/problems/cheapest-flights-within-k-stops/description/
 Concatenated words	| Dynamic Programming | Hard | LC Daily Challenge | 	https://leetcode.com/problems/concatenated-words/
+Permutation in String | Arrays	| Medium |  LC Daily Challenge | https://leetcode.com/problems/permutation-in-string/
