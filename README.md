@@ -127,3 +127,5 @@ Find the town judge	| Arrays | Easy	| LC Daily Challenge | https://leetcode.com/
 Cheapest flights within k stops | 	Graphs | Medium | LC Daily Challenge | 	https://leetcode.com/problems/cheapest-flights-within-k-stops/description/
 Concatenated words	| Dynamic Programming | Hard | LC Daily Challenge | 	https://leetcode.com/problems/concatenated-words/
 Permutation in String | Arrays	| Medium |  LC Daily Challenge | https://leetcode.com/problems/permutation-in-string/
+Maximum product subarray  | Arrays	| Medium | Leetcode 75 | https://leetcode.com/problems/maximum-product-subarray/	
+Non overlapping intervals	| Arrays	| Medium | Leetcode 75 | 	https://leetcode.com/problems/non-overlapping-intervals/
