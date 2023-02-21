@@ -132,3 +132,4 @@ Non overlapping intervals	| Arrays	| Medium | Leetcode 75 | 	https://leetcode.co
 Add to array form of integer | Arrays | Easy | LC Daily Challenge | https://leetcode.com/problems/add-to-array-form-of-integer/description/
 Find all anagrams in a string | 	Strings	| Medium | Leetcode 75 | https://leetcode.com/problems/find-all-anagrams-in-a-string/	
 Minimum distance between BST nodes	| Binary Search Tree | Easy | LC Daily challenge |	https://leetcode.com/problems/as-far-from-land-as-possible/
+Best team with no conflict	| Dynamic Programming	| Medium | LC Daily Challenge |https://leetcode.com/problems/best-team-with-no-conflicts/
