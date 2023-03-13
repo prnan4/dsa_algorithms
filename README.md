@@ -134,3 +134,4 @@ Find all anagrams in a string | 	Strings	| Medium | Leetcode 75 | https://leetco
 Minimum distance between BST nodes	| Binary Search Tree | Easy | LC Daily challenge |	https://leetcode.com/problems/as-far-from-land-as-possible/
 Best team with no conflict	| Dynamic Programming	| Medium | LC Daily Challenge |https://leetcode.com/problems/best-team-with-no-conflicts/
 Capacity to ship package within d days | 	Binary search	| Medium | LC Daily Challenge | https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/
+Minimum size subarray sum	Sliding window | Medium | Sean Prassad list |	https://leetcode.com/problems/minimum-size-subarray-sum/description/
