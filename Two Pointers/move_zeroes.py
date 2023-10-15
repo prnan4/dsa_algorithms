@@ -25,4 +25,20 @@ class Solution(object):
                 while (nums[first_zero] != 0):
                     first_zero += 1
 
+    # Optimized approach
+    def moveZeroes(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: None Do not return anything, modify nums in-place instead.
+        """
+        
+        first_zero = 0
+
+        for i in range(0, len(nums)):
+            if nums[i] != 0:
+                temp = nums[i]
+                nums[i] = nums[first_zero]
+                nums[first_zero] = temp
+
+                first_zero += 1
         

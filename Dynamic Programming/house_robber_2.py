@@ -52,7 +52,7 @@ class Solution(object):
               
         return maxAmount(nums, 0)
 
-    # ========================== APPROACH 2 ==========================
+    # ========================== APPROACH 3 ==========================
     # Bottom UP DP
     def rob(self, nums):
         """
@@ -78,3 +78,34 @@ class Solution(object):
                     memory[i][j] = max(nums[i-1] + memory[i-2][j], memory[i-1][j])
 
         return max(memory[n][0], memory[n][1])
+    
+    # ========================== APPROACH 4 ==========================
+    # Bottom up DP
+    def rob(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        mem1 = [None] * (len(nums) - 1)
+        mem2 = [None] * (len(nums) - 1)
+
+        if len(nums) == 1:
+            return nums[0]
+
+        if len(nums) == 2:
+            return max(nums[0], nums[1])
+        
+        mem1[0] = nums[0]
+        mem1[1] = max(nums[0], nums[1])
+
+        mem2[0] = nums[1]
+        mem2[1] = max(nums[1], nums[2])
+
+        for i in range(2, len(nums)-1):
+            mem1[i] = max(nums[i] + mem1[i-2], mem1[i-1])
+        for j in range(3, len(nums)):
+            i = j-1
+            mem2[i] = max(nums[j] + mem2[i-2], mem2[i-1])
+
+        return max(mem1[len(nums)-2], mem2[len(nums)-2])
+

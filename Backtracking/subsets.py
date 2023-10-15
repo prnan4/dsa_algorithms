@@ -64,4 +64,27 @@ class Solution(object):
                 combination.pop()
         backtrack(0, [])
         return output
+    
+    # October 15 2023
+    def subsets(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[List[int]]
+        """
+        combination = []
+        result = []
+        it = 0
+
+        def backtrack(it, combination):
+            result.append(combination[:])
+            if it == len(nums):
+                return
+            
+            for i in range(it, len(nums)):
+                combination.append(nums[i])
+                backtrack(i+1, combination)
+                combination.pop()
+            
+        backtrack(it, combination)
+        return result
             

@@ -56,3 +56,26 @@ class Solution(object):
             ans[i] *= right
             right *= nums[i]
         return ans
+    
+    # Oct 15, 2023
+
+
+    def productExceptSelf(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+        
+        result = [1] * len(nums)
+        prodRight = [1] * len(nums)
+        prodLeft = [1] * len(nums)
+
+        for i in range(1, len(nums)):
+            prodRight[i] = prodRight[i-1] * nums[i-1]
+        result[len(nums) - 1] = prodRight[len(nums)-1]
+
+        for i in range(len(nums)-2, -1, -1):
+            prodLeft[i] = prodLeft[i+1] * nums[i+1]
+            result[i] = prodLeft[i] * prodRight[i]
+        
+        return result
