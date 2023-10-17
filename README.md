@@ -102,13 +102,6 @@ Boats to save people| Two pointers | 	Medium	|  Neetcode	| https://leetcode.com/
 Partition Labels | Arrays | 	Medium	| No List |	https://leetcode.com/problems/partition-labels/submissions/	
 Remove linked list elements	| Linked List | 	Easy	| No List |	https://leetcode.com/problems/remove-linked-list-elements/submissions/	
 Trapping rain water	| Arrays | 	Hard	| Grind 75 |	https://leetcode.com/problems/trapping-rain-water/submissions/
-
-
-
-### Part 2
-
-Problem  | Topics | Difficulty | Problem List | Link
--------- | ------ | ----- | ----- | -----
 Rotate Matrix | Arrays | Medium | Striver | https://leetcode.com/problems/rotate-image/
 Seach in a 2D matrix | Arrays	| Medium | Striver | https://leetcode.com/problems/search-a-2d-matrix/	
 Palindromic Linked List | Linked List | Easy | Striver | https://leetcode.com/problems/palindrome-linked-list/
@@ -139,3 +132,19 @@ Move Zeroes	Arrays | Arrays, Two pointers | Easy | Sean Prassad list | https://l
 Missing Number	| Arrays, Bit Manipulation	| Easy	| Sean Prassad list | https://leetcode.com/problems/missing-number/editorial/
 Single Number	| Arrays, Bit Manipulation	| Easy	| Sean Prassad list |https://leetcode.com/problems/single-number/
 Counting Bits | Dynamic Programming	| Easy | Sean Prassad list |	https://leetcode.com/problems/counting-bits/
+
+
+Phase 2 - [Sean Prasad List](https://seanprashad.com/leetcode-patterns/)
+
+Problem	 | Topic
+-------- | ------ 
+Middle of Linked List |	Fast and Slow Pointers
+Add two numbers	| Fast and Slow Pointers
+Subsets	| Backtracking
+Reverse Linked List	| In place reversal of Linked List
+Combinations	| Backtracking
+Product of Array except self | 	Arrays
+Fruit into baskets | Sliding window
+Permutations in a string	 | Sliding Window
+Swap Nodes in Pairs	 | In place reversal of Linked List
+Combination Sum 2	 | Backtracking
