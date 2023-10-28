@@ -42,3 +42,17 @@ class Solution(object):
 
                 first_zero += 1
         
+    
+    # October 28, 2024
+    def moveZeroes(self, nums: List[int]) -> None:
+        """
+        Do not return anything, modify nums in-place instead.
+        """
+        zero = 0
+        for i in range(0, len(nums)):
+            if nums[i] != 0:
+                if i > zero:
+                    nums[zero] = nums[i]
+                    nums[i] = 0
+                zero += 1
+        return nums

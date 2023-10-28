@@ -147,4 +147,10 @@ Product of Array except self | 	Arrays
 Fruit into baskets | Sliding window
 Permutations in a string	 | Sliding Window
 Swap Nodes in Pairs	 | In place reversal of Linked List
-Combination Sum 2	 | Backtracking
+Combination Sum 3	 | Backtracking
+Longest Substring without repeating characters	 | Sliding Window
+Merge Two Sorted Lists	 | Two pointers
+Sort List	 | Fast and Slow Pointers
+Binary Search	 | Binary Search
+Take it Easy	 | Arrays
+Move Zeroes	 | Two pointers

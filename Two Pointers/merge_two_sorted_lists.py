@@ -62,3 +62,30 @@ class Solution(object):
             l2.next = self.mergeTwoLists(l1, l2.next)
             return l2
             
+    # October 18 2023
+    def mergeTwoLists(self, list1, list2):
+        """
+        :type list1: Optional[ListNode]
+        :type list2: Optional[ListNode]
+        :rtype: Optional[ListNode]
+        """
+
+        dummy = ListNode(-1)
+        prev = dummy 
+
+        n1 = list1
+        n2 = list2
+        while n1 and n2:
+            if n1.val < n2.val:
+                prev.next = n1
+                n1 = n1.next
+
+            else:
+                prev.next = n2
+                n2 = n2.next
+
+            prev = prev.next
+
+        prev.next = n1 if n1 else n2
+        return dummy.next
+        
